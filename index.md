@@ -16,7 +16,7 @@ Syntax highlighted code block
 ### Header 3
 
 - Below this should be a link
-- [Link to timeline page](https://github.come/merlinsbeard711/blob/timeline.md)
+- [Link to timeline page](https://github.come/merlinsbeard711/blob/gh-pages/timeline.md)
 
 1. Numbered
 2. List
