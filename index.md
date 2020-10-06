@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 -Below this is a link to the timeline page (hopefully)
-- [Link to timeline page](https://github.come/merlinsbeard711/blob/gh-pages/timeline.md)
+- [Link to timeline page](https://github.com/merlinsbeard711/blob/gh-pages/timeline.md)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -19,7 +19,7 @@ Syntax highlighted code block
 ### Header 3
 
 - Below this should be a link
-- [Link to timeline page](https://github.come/merlinsbeard711/blob/gh-pages/timeline.md)
+- [Link to timeline page](https://github.com/merlinsbeard711/blob/gh-pages/timeline.md)
 
 1. Numbered
 2. List
