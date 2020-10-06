@@ -15,8 +15,8 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- Below this should be a link
+- [Link to timeline page](https://github.come/merlinsbeard711/blob/timeline.md)
 
 1. Numbered
 2. List
