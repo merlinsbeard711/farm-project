@@ -11,7 +11,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 -Below this is a link to the timeline page (hopefully)
 <nav>
   <ul>
-    <li><a href="_indcludes/timeline.md">Timeline</a></li>
+    <li><a href="/_indcludes/timeline.md/">Timeline</a></li>
   </ul>
 </nav>
 
