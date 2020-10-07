@@ -4,14 +4,14 @@ You can use the [editor on GitHub](https://github.com/merlinsbeard711/farm-proje
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-## The page is now updated
+## The page is now updated again
 
 ### Markdown
 
 -Below this is a link to the timeline page (hopefully)
 <nav>
   <ul>
-    <li><a href="timeline.md">Timeline</a></li>
+    <li><a href="_indcludes/timeline.md">Timeline</a></li>
   </ul>
 </nav>
 
