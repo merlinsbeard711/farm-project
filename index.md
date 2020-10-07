@@ -7,7 +7,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 -Below this is a link to the timeline page (hopefully)
-- [Link to timeline page](https://github.com/merlinsbeard711/farm-project/blob/gh-pages/timeline.md)
+<nav>
+  <ul>
+    <li><a href="timeline.md">Timeline</a></li>
+  </ul>
+</nav>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
